@@ -6,6 +6,7 @@ This _CLIORIZE_ library colorize your text in the command line interface.
 
 ```php
 class clitext {
+    /**
      * 
      * @param string $text
      * @param string $color
